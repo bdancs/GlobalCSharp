@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Controllers\\V1",
+    "\\Controllers\\V2",
+    "\\Data",
+    "\\DTOs",
+    "\\Entities",
+    "\\Migrations",
+    "\\Swagger"
+  ],
+  "SelectedNode": "\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

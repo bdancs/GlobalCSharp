@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sJLBqGAEh1kV5WzdV8G7HsPOfZqXyyBIc5ssb8ZeCg0=",
+  "Source": "SecurityState.API",
+  "BasePath": "_content/SecurityState.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
