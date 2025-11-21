@@ -6,7 +6,7 @@
 - Giuliano Romaneto Marques - RM 99694
 
 ### Link do Vídeo
-![Vídeo](https://youtu.be/1zOY919B5fA)
+https://youtu.be/1zOY919B5fA
 
 ------------------------------------------------------------------------
 
