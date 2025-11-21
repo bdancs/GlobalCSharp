@@ -5,6 +5,9 @@
 - Bianca Carvalho Dancs Firsoff - RM 551645
 - Giuliano Romaneto Marques - RM 99694
 
+### Link do Vídeo
+![Vídeo](https://youtu.be/1zOY919B5fA)
+
 ------------------------------------------------------------------------
 
 ## 🚀 Sobre o Projeto
@@ -84,3 +87,6 @@ Acesse:
 -   Persistência com EF Core
 
 ------------------------------------------------------------------------
+
+## Diagram
+![](Diagram.png)
